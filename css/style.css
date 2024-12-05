@@ -1,0 +1,24 @@
+h1{
+    
+    text-align: center;
+    color: white;
+    margin-top: 5rem;
+    background-color: black;
+    
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 5rem;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+i {
+    font-size: 2rem;
+    color: cornflowerblue;
+    margin-right: 10px; /* Optional for spacing between icon and text */
+}
