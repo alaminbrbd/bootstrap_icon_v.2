@@ -1,3 +1,3 @@
 # bootstrap_icon_v.2
 
-url: 
+url: https://alaminbrbd.github.io/bootstrap_icon_v.2/
